@@ -1,0 +1,6 @@
+[submodule "BE"]
+	path = BE
+	url = https://github.com/Mr-EmPee-Aizoon/Spring-Shop.git
+[submodule "FE"]
+	path = FE
+	url = https://github.com/Mr-EmPee-Aizoon/Angular-Shop.git
